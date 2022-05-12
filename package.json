@@ -3,7 +3,7 @@
   "scripts": {
     "dev": "next dev",
     "start": "next start",
-    "setup": "npm install && git-install"
+    "build": "next build"
   },
   "dependencies": {
     "next": "latest",
